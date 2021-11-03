@@ -16,6 +16,7 @@ function draw() {
   white.appear();
   orange = new Ball(150, 100, 50, "orange");
   orange.appear();
+  
     
 }
     
